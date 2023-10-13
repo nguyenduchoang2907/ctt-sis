@@ -140,13 +140,16 @@
 }
 
 .col-3 button a:hover {
-  color: #9c1010; /* Green */
+  color: #9c1010; 
 }
 
 .col-3 button input:hover {
-  color: #9c1010; /* Green */
+  color: #9c1010; 
   cursor: pointer;
 }
+/* .button-select {
+  margin: 40;
+}  */
 /* end submit */
 
 /*------------- note -------------*/
